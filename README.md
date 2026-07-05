@@ -202,8 +202,6 @@ http://127.0.0.1:5000
 
 ---
 
----
-
 # 🌾 Input Parameters & Valid Ranges
 
 To obtain accurate crop recommendations, enter values within the expected agricultural ranges shown below.
@@ -386,7 +384,6 @@ Seaborn==0.13.2
 Joblib==1.3.2
 Jinja2==3.1.3
 ```
-
 ---
 
 # 👨‍💻 Author
