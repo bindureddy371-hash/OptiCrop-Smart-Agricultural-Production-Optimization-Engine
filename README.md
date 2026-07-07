@@ -387,8 +387,8 @@ Jinja2==3.1.3
 ---
 # 👨‍💻 Team Members
 ```
-Ramireddy Anitha
 Reddimigari Bindu (Team Lead)
+Ramireddy Anitha
 Kanuparthi Venkata Srujani
 Narasamma K
 Padigala Dhananjaneyulu
